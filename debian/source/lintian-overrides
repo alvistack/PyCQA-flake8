@@ -1,0 +1,4 @@
+python-flake8 source: file-without-copyright-information
+python-flake8 source: no-debian-changes
+python-flake8 source: source-contains-prebuilt-windows-binary
+python-flake8 source: source-package-encodes-python-version
