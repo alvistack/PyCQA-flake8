@@ -1,0 +1,5 @@
+python-flake8 (100:7.0.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/PyCQA/flake8/releases/tag/7.0.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Fri, 05 Jan 2024 10:34:06 +0800
