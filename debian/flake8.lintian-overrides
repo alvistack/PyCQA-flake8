@@ -1,0 +1,4 @@
+flake8: copyright-without-copyright-notice
+flake8: initial-upload-closes-no-bugs
+flake8: no-manual-page
+flake8: zero-byte-file-in-doc-directory
