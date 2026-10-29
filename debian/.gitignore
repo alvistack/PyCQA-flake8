@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+flake8
+python3-flake8
+tmp

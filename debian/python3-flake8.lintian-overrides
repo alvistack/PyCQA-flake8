@@ -1,0 +1,4 @@
+python3-flake8: copyright-without-copyright-notice
+python3-flake8: initial-upload-closes-no-bugs
+python3-flake8: no-manual-page
+python3-flake8: zero-byte-file-in-doc-directory
